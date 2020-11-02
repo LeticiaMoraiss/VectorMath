@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibCG", "LibCG.csproj", "{2730915F-C873-4A80-88A1-A61548AA25EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectorForm", "..\VectorForm\VectorForm.csproj", "{76B4C4B5-246E-475E-9D28-69ABE20D0A45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2730915F-C873-4A80-88A1-A61548AA25EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2730915F-C873-4A80-88A1-A61548AA25EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2730915F-C873-4A80-88A1-A61548AA25EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2730915F-C873-4A80-88A1-A61548AA25EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76B4C4B5-246E-475E-9D28-69ABE20D0A45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76B4C4B5-246E-475E-9D28-69ABE20D0A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76B4C4B5-246E-475E-9D28-69ABE20D0A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76B4C4B5-246E-475E-9D28-69ABE20D0A45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75C8F3CB-785B-4313-B030-ED0AFE9401B5}
+	EndGlobalSection
+EndGlobal
